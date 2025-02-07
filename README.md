@@ -59,40 +59,15 @@ We welcome contributions to improve Matplotible. If you would like to contribute
 6. Create a new Pull Request
 Let's create a README file for the repository `Adarsh572sg/Matplotible-Python-plotting-library-`.
 
-```markdown name=README.md
-# Matplotible - Python Plotting Library
+markdown name=README.md
 
-Matplotible is a Python plotting library designed to make data visualization easier and more intuitive. This repository contains various Jupyter Notebooks showcasing the capabilities of Matplotible.
-
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Installation
-
-To use Matplotible, you need to have Python and Jupyter Notebook installed. You can install the necessary dependencies using pip.
-
-```bash
-# Clone the repository
-git clone https://github.com/Adarsh572sg/Matplotible-Python-plotting-library-.git
-
-# Navigate to the project directory
-cd Matplotible-Python-plotting-library-
-
-# Install dependencies
-pip install -r requirements.txt
-```
 
 ## Usage
 
 You can start Jupyter Notebook and explore the examples provided in the repository.
 
 ```bash
-# Start Jupyter Notebook
+  Start Jupyter Notebook
 jupyter notebook
 ```
 
